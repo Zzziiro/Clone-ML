@@ -3,7 +3,7 @@ import React from "react";
 import { Container } from "./styles";
 
 const Footer: React.FC = () => {
-  return <Container>Interface reproduzida com a Rocketseat</Container>;
+  return <Container>Clone ML por Lucas Vieira</Container>;
 };
 
 export default Footer;
