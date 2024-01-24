@@ -24,7 +24,7 @@ const ProductAction: React.FC = () => {
       <Condition>Novo</Condition>
 
       <Row>
-        <h1>Cadeira de sapo da Gucci</h1>
+        <h1>Cadeira de sapo</h1>
         <HeartIcon />
       </Row>
 
