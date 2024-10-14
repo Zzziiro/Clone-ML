@@ -36,8 +36,6 @@ const Product: React.FC = () => {
           <SellerInfo />
 
           <WarrantySection />
-          <WarrantySection />
-          <WarrantySection />
         </Column>
       </Panel>
     </Container>
@@ -69,15 +67,7 @@ const Info = () => (
   <Description>
     <h2>Descrição</h2>
 
-    <p>
-      A melhor cadeira de sapo que você encontrará no mercado.
-      <br />
-      <br />
-      Itens inclusos: <br />
-      - 1x cadeira de sapo <br />
-      <br />
-      Oportunidade única para levar para casa a cadeira de sapo que você sempre sonhou!
-    </p>
+    <p>A melhor cadeira de sapo que você encontrará no mercado.</p>
   </Description>
 );
 
